@@ -1,9 +1,6 @@
 import datetime
-
 from pycoingecko import CoinGeckoAPI
-
 from datetime import datetime
-
 # import time
 
 # connect with CoinGeckoAPI
